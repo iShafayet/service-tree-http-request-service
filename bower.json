@@ -1,0 +1,26 @@
+{
+  "name": "service-tree-http-request-service",
+  "description": "HttpRequestService for ServiceTree",
+  "main": "service-tree-http-request-service.html",
+  "authors": [
+    "Sayem Shafayet <ishafayet@gmail.com> (http://ishafayet.me/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "get",
+    "post",
+    "request",
+    "http",
+    "service-tree"
+  ],
+  "homepage": "https://github.com/iShafayetservice-tree-http-request-service",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "service-tree": "^0.0.1"
+  }
+}
